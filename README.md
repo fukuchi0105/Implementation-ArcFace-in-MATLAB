@@ -1,8 +1,8 @@
 # ArcFace_MATLAB
 <!-- This is the "Title of the contribution" that was approved during the Community Contribution Review Process --> 
 
-[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title)  
-<!-- Add this icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
+[![View Implementation-ArcFace-in-MATLAB on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/107490-implementation-arcface-in-matlab)
+
 This is implementatoin of ArcFace(https://arxiv.org/abs/1801.07698) in MATLAB.
 In this demo, train and test pet images by using ArcFace.
 This network can 
