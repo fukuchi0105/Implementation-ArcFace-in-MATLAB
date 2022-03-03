@@ -20,8 +20,7 @@ This network can
 
 ## Setup
 dataset: 
-before train and test, you can download dataset this URL: https://mathworks-my.sharepoint.com/:u:/p/nobuakif/EZoaZT53l_pJvSjm6SV4ki0BEnPYaWKdvr7s7mJvcQhFNQ?e=jSUgRD
-download and unzip it. place it to the same folder of this program file.
+Datasets is automatically downloaded from Oxford-IIIT Pet Datset(https://www.robots.ox.ac.uk/~vgg/data/pets/).
 
 To Run:  
 ・Train and Test:(GPU is recommanded)  
