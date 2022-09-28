@@ -42,7 +42,7 @@ To learn how to use this in testing workflows, see arface_train.mlx.
 
 
 ## License
-The license for Implementation-ArcFace-in-MATLAB is available in the [LICENSE.TXT](LICENSE.TXT) file in this GitHub repository.
+The license for Implementation-ArcFace-in-MATLAB is available in the license.txt file in this GitHub repository.
 
 Include any other License information here, including third-party content using separate license agreements 
 
